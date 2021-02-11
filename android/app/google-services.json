@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "362343686663",
+    "firebase_url": "https://protocall-project.firebaseio.com",
+    "project_id": "protocall-project",
+    "storage_bucket": "protocall-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362343686663:android:44d778edd08013b380c0a2",
+        "android_client_info": {
+          "package_name": "com.circle.supplier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362343686663-hd7morso8n7u6f9dllqfsp4ekjjft9uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.circle.supplier",
+            "certificate_hash": "94ab849a7dde4dac97a4f0189cc732c6b4266f2f"
+          }
+        },
+        {
+          "client_id": "362343686663-7tldt2h4njglfiecs5vh73ourjf3odc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.circle.supplier",
+            "certificate_hash": "217e456d0dd0f5f718d22daec4bc40e7c8ff6575"
+          }
+        },
+        {
+          "client_id": "362343686663-m6363c6gn54q5os4hhqa048abrijciet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.circle.supplier",
+            "certificate_hash": "0cfb951f2def6c1108b2f373bcda516e9b898e77"
+          }
+        },
+        {
+          "client_id": "362343686663-5t3o7b7663akva3r4b5vavf4hg1rhsl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Kugf4MQqyZUf6EdAx1N_38BK1jx0UCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362343686663-5t3o7b7663akva3r4b5vavf4hg1rhsl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "362343686663-m9iafa58l59lsncjkg6ua3i4ahtnaite.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.circle.protocall.supplier2",
+                "app_store_id": "1538349765"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

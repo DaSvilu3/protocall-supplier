@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "1055192255364",
+    "firebase_url": "https://protocall-01.firebaseio.com",
+    "project_id": "protocall-01",
+    "storage_bucket": "protocall-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055192255364:android:9ce1f82d7f99ad8c4babd1",
+        "android_client_info": {
+          "package_name": "com.circle.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055192255364-rm6oheoqq3lkovul4t3h7f1criqvicbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.circle.admin",
+            "certificate_hash": "30ad8b761c92bcdace2202fc08756d78910898a8"
+          }
+        },
+        {
+          "client_id": "1055192255364-pa2jjmrvpstlhro73mcdt2tv01ibkun6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm4Fr2pUKNK_mrJCpBUAij-WspS5vjK6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055192255364-pa2jjmrvpstlhro73mcdt2tv01ibkun6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055192255364-rvmdmpoeqdpnt4v17ajslkvp5592gkb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "om.circlesoft.protocallCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055192255364:android:0d487d485f019e3d4babd1",
+        "android_client_info": {
+          "package_name": "com.circle.supplier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055192255364-pa2jjmrvpstlhro73mcdt2tv01ibkun6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm4Fr2pUKNK_mrJCpBUAij-WspS5vjK6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055192255364-pa2jjmrvpstlhro73mcdt2tv01ibkun6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055192255364-rvmdmpoeqdpnt4v17ajslkvp5592gkb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "om.circlesoft.protocallCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055192255364:android:382d696a1e63043f4babd1",
+        "android_client_info": {
+          "package_name": "om.circlesoft.protocall_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055192255364-gpvjnag0pc1d848ohlqfvvc0o6gvodb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "om.circlesoft.protocall_customer",
+            "certificate_hash": "e0d83d24d22ee54a84ce137e8871a92ab15e3926"
+          }
+        },
+        {
+          "client_id": "1055192255364-pa2jjmrvpstlhro73mcdt2tv01ibkun6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm4Fr2pUKNK_mrJCpBUAij-WspS5vjK6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055192255364-pa2jjmrvpstlhro73mcdt2tv01ibkun6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055192255364-rvmdmpoeqdpnt4v17ajslkvp5592gkb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "om.circlesoft.protocallCustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
